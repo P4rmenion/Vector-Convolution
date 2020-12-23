@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/parme/Documents/Projects/C++ Programming/Vector Convolution/src/AudioFile.h
+iostream
+-
+vector
+-
+cassert
+-
+string
+-
+cstring
+-
+fstream
+-
+unordered_map
+-
+iterator
+-
+algorithm
+-
+
+D:/parme/Documents/Projects/C++ Programming/Vector Convolution/src/main.cpp
+AudioFile.h
+D:/parme/Documents/Projects/C++ Programming/Vector Convolution/src/AudioFile.h
+random
+-
+iostream
+-
+algorithm
+-
+vector
+-
+fstream
+-
+ctime
+-
+

@@ -1,0 +1,4 @@
+"D:\parme\Program_Files\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\parme\Documents\Projects\C++ Programming\Vector Convolution"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/parme/Documents/Projects/C++ Programming/Vector Convolution/cmake-build-debug

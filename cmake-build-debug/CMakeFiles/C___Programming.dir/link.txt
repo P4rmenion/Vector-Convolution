@@ -1,0 +1,3 @@
+"D:\parme\Program_Files\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\C___Programming.dir/objects.a
+D:\parme\Program_Files\MinGW-64\mingw64\bin\ar.exe cr CMakeFiles\C___Programming.dir/objects.a @CMakeFiles\C___Programming.dir\objects1.rsp
+D:\parme\Program_Files\MinGW-64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\C___Programming.dir/objects.a -Wl,--no-whole-archive  -o C___Programming.exe -Wl,--out-implib,libC___Programming.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\C___Programming.dir\linklibs.rsp
